@@ -1,0 +1,14 @@
+.counter_wrapper{
+    padding:30px;
+    border:2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.counter_wrapper_count{
+    font-size: 30px;
+}
+.counter_wrapper_actions >button {
+    padding:20px;
+    margin: 10px;
+}
